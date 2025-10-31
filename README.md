@@ -14,12 +14,12 @@ A simple full-stack Task Manager using:
 
 # Setup Instructions
 1. Run Backend:
-cd backend
+cd backend -> 
 dotnet run
 
 2. Run Frontend:
-cd frontend
-npm install
+cd frontend -> 
+npm install -> 
 npm start
 
 Frontend → http://localhost:3000  
