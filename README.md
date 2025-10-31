@@ -13,11 +13,11 @@ A simple full-stack Task Manager using:
 - Delete tasks
 
 # Setup Instructions
-1. Run Backend
+1. Run Backend:
 cd backend
 dotnet run
 
-2. Run Frontend
+2. Run Frontend:
 cd frontend
 npm install
 npm start
